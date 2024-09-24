@@ -17,7 +17,7 @@ This lab investigates a potential security breach flagged by an IDS in the HR de
 - [Challenges Faced](#challenges-faced)
 - [Conclusion](#conclusion)
 - [References](#references)
-- [Full Lab](https://docs.splunk.com/Documentation/Splunk)
+- [Full Lab](https://github.com/LucasCodes8/Investigating-a-Compromised-Host-Analyzing-Process-Execution-and-Payload-Delivery-Using-Splunk/blob/main/Investigating%20a%20Compromised%20Host_%20Analyzing%20Process%20Execution%20and%20Payload%20Delivery%20Using%20Splunk.pdf)
 
 ---
 
